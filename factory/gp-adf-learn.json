@@ -1,0 +1,9 @@
+{
+	"name": "gp-adf-learn",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ff021bfc-7daf-4e71-88fc-f120024f5be6",
+		"tenantId": "d70d7495-682b-4f5c-8f94-c50d913a92f9"
+	}
+}
